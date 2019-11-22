@@ -6,11 +6,11 @@ ul{
     text-align: center;
     font-family: 'Poiret One', cursive;
 }
-li{
+ul li{
     display: inline-block;
     font-family: 'Poiret One', cursive;
 }
-li a{
+ul li a{
     display: block;
     padding: 10px;
     text-decoration: none;
@@ -29,6 +29,7 @@ h1{
     text-align: center;
     font-family: 'Dancing Script', cursive;
 font-family: 'Pacifico', cursive;
+text-shadow: 1px 2px 3px grey;
 
 }
 h2{
@@ -37,7 +38,9 @@ h2{
 font-family: 'Pacifico', cursive;
 font-size: 40px;
 }
-
+#countries{
+    color: rgb(143, 126, 180);
+}
  
 .img{
     width: 30%;
@@ -51,42 +54,7 @@ p{
     font-family: 'Poiret One', cursive;
     font-size: 20px;
     color: black;
-
 }
-.dropbtn {
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-  }
-  .dropbtn {
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-  }
-  
-  .dropdown {
-    position: relative;
-    display: none;
-  }
-  
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f1f1f1;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
-  }
-  
-  .dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-  }
-  
-  .dropdown-content a:hover {background-color: #ddd;}
-  
-  .dropdown:hover .dropdown-content {display: block;}
-  
-  .dropdown:hover .dropbtn {background-color: #3e8e41;}  
+.trav{
+    overflow: hidden;
+}
