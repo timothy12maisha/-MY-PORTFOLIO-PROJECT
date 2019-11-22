@@ -4,19 +4,24 @@ ul{
     padding: 0;
     overflow: hidden;
     text-align: center;
+    font-family: 'Poiret One', cursive;
 }
 li{
     display: inline-block;
+    font-family: 'Poiret One', cursive;
 }
 li a{
     display: block;
-    padding: 8px;
+    padding: 10px;
     text-decoration: none;
     color: white;
     background: black;
+    border-radius: 20%;
+
+
 }
 .active{
-    color:yellow;
+    color: red;
     font-family: 'Times New Roman', Times, serif;
 
 }
@@ -24,11 +29,32 @@ h1{
     text-align: center;
     font-family: 'Dancing Script', cursive;
 font-family: 'Pacifico', cursive;
+
+}
+h2{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Pacifico', cursive;
+font-size: 40px;
 }
  
 img{
-    width: 15%;
-    height: 15%;
+    width: 30%;
+    height: 30%;
+    border-radius: 50%;
 }
+p{
+    font-family: 'Poiret One', cursive;
+    font-size: 20px;
+    color: black;
+
+}
+.dropbtn {
+    background-color: #4CAF50;
+    color: burlywood;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+
 
 
