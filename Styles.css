@@ -37,9 +37,12 @@ h2{
     font-family: 'Dancing Script', cursive;
 font-family: 'Pacifico', cursive;
 font-size: 40px;
+text-shadow: 1px 2px 3px grey;
 }
 #countries{
-    color: rgb(143, 126, 180);
+    color: black;
+    font-family: 'Poiret One', cursive;
+
 }
  
 .img{
@@ -57,4 +60,7 @@ p{
 }
 .trav{
     overflow: hidden;
+}
+.cars{
+    font-family: 'Poiret One', cursive;
 }
