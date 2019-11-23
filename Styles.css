@@ -73,3 +73,15 @@ p{
     background-color: bisque;
     width: 100%;
 }
+.projectimage{
+    border-radius: 10%;
+    width: 30%;
+    height: 30%;
+    flex: 5px;
+}
+.projectimage2{
+    border-radius: 10%;
+    width: 30%;
+    height: 30%;
+    flex
+}
