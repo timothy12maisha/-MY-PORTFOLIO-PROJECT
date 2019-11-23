@@ -63,6 +63,8 @@ p{
 }
 .cars{
     font-family: 'Poiret One', cursive;
+    text-align: left;
+    text-emphasis: bold;
 }
 .footer{
     font-family: 'Poiret One', cursive;
