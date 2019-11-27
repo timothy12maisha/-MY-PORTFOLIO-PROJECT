@@ -11,7 +11,7 @@ This is my portfolio website. It contains details about me, projects i have done
 ## Setup/Installation Requirements
 
 Open terminal (CTRL ALT T)
-git clone https://timothy12maisha.github.io/-MY-PORTFOLIO-PROJECT/
+git clone https://github.com/timothy12maisha/-MY-PORTFOLIO-PROJECT.git
 cd Portfolio
 easy-to-understand
 use atom . or code . to open the clone repo on Atom or vs -code respectively
